@@ -2,27 +2,27 @@
 
 ## 1. Prerequisites 
 
-### 1) Python 3.6.5
-### 2) Tensorflow 1.14.0 or Tensorflow 2.0 
-### 3) Pandas (install fitting on tensorflow version)
-### 4) Numpy (install fitting on tensorflow version)
-### 5) sys
-### 6) os
+ 1) Python 3.6.5
+ 2) Tensorflow 1.14.0 or Tensorflow 2.0 
+ 3) Pandas (install fitting on tensorflow version)
+ 4) Numpy (install fitting on tensorflow version)
+ 5) sys
+ 6) os
 
 ## 2. Usage
 
-### In terminal, "python main.py 'your own sentence'" can create headline which is answer for CSAT with learning process 
-### In shell, "!python main.py 'your own sentnence" can create headline which is answer for CSAT with learning process
+ In terminal, "python main.py 'your own sentence'" can create headline which is answer for CSAT with learning process 
+ In shell, "!python main.py 'your own sentnence" can create headline which is answer for CSAT with learning process
 
 
 ## 3. File Manifest
 
-### 1) config.py: Identify your own local path according to user desktop or device
-### 2) main.py: for running total package
-### 3) model.py: LSTM model for natural language generate with sequence to sequence 
-### 4) data.py: load dataset & preprocessing the data
-### 5) data_in repo: input dataset 
-### 6) data_out repo: checkpoint & vocabulary storage
+ 1) config.py: Identify your own local path according to user desktop or device
+ 2) main.py: for running total package
+ 3) model.py: LSTM model for natural language generate with sequence to sequence 
+ 4) data.py: load dataset & preprocessing the data
+ 5) data_in repo: input dataset 
+ 6) data_out repo: checkpoint & vocabulary storage
 
 ## 4. Copyright
 
